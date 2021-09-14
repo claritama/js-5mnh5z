@@ -10,6 +10,9 @@ body
   background-position: center;
   box-sizing: border-box;
   font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
 }
 
 .menu-bar
