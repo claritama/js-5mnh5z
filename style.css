@@ -6,9 +6,12 @@
 body
 {
   background-image: url('backgroungpage.png');
-box-sizing: border-box;
-font-family: sans-serif;
+  background-size: cover;
+  background-position: center;
+  box-sizing: border-box;
+  font-family: sans-serif;
 }
+
 .menu-bar
 {
   background: rgb(245, 197, 38);
